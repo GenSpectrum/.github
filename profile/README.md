@@ -39,7 +39,7 @@ Our current core team:
                     <img src="https://avatars.githubusercontent.com/u/122305307?v=4" width="125px;" alt="Jonas Kellerer" />
                     <br />
                     <sub>
-                        <b>Jonas Kellerer</b>
+                        <b>Jonas Zarzalis</b>
                     </sub>
                 </a>
             </td>
