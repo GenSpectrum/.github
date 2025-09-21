@@ -34,13 +34,6 @@ Our current core team:
                     </sub>
                 </a>
             </td>
-          </tr>
-    </tbody>
-</table>
-
-<table align="center">
-    <tbody>
-          <tr>
             <td align="center" valign="top" width="25%">
                 <a href="https://github.com/anna-parker">
                     <img src="https://avatars.githubusercontent.com/u/50943381?v=4" width="125px;" alt="Jonas Kellerer" />
@@ -50,12 +43,28 @@ Our current core team:
                     </sub>
                 </a>
             </td>
+          </tr>
+    </tbody>
+</table>
+
+<table align="center">
+    <tbody>
+          <tr>
             <td align="center" valign="top" width="25%">
                 <a href="https://github.com/pflanze">
                     <img src="https://avatars.githubusercontent.com/u/31164?v=4" width="125px;" alt="Jonas Kellerer" />
                     <br />
                     <sub>
                         <b>Christian Jaeger</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center" valign="top" width="25%">
+                <a href="https://github.com/fhennig">
+                    <img src="https://avatars.githubusercontent.com/u/5787489?v=4" width="125px;" alt="fhennig" />
+                    <br />
+                    <sub>
+                        <b>Felix Hennig</b>
                     </sub>
                 </a>
             </td>
